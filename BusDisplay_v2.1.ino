@@ -5,8 +5,8 @@
 #include <ESP32-HUB75-MatrixPanel-I2S-DMA.h>
 
 /* ================= WIFI ================= */
-const char* ssid     = "Eren";
-const char* password = "Eren2004";
+const char* ssid     = "****";
+const char* password = "****";
 
 /* ================= TIME ================= */
 const char* ntpServer = "pool.ntp.org";
